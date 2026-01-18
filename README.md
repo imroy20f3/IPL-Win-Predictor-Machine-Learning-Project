@@ -1,1 +1,3 @@
 # IPL-Win-Predictor-Machine-Learning-Project
+This project predicts the winning probability of an IPL match based on real time match conditions using machine learning. The model uses key match inputs such as batting team, bowling team, venue, target score, current runs, overs completed, and wickets fallen to estimate the chances of winning for both teams.
+Historical IPL match data is cleaned, preprocessed, and used for feature engineering before training the model. A classification algorithm is applied to learn match patterns and generate reliable predictions. The trained model achieves an accuracy score of 0.8017, indicating strong predictive performance on unseen data.
